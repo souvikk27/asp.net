@@ -11,7 +11,7 @@
         <div>
             
         </div>
-        User Name :-<asp:TextBox ID="TextBox1" runat="server" style="margin-left: 17px" Width="149px"></asp:TextBox>
+        User Name :-<asp:TextBox ID="TextBox1" runat="server" style="margin-left: 19px" Width="149px"></asp:TextBox>
         <br />
          Password&nbsp;&nbsp; :-<asp:TextBox ID="TextBox2" runat="server" style="margin-left: 19px" Width="149px"></asp:TextBox>
         <p>
